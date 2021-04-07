@@ -3,7 +3,6 @@
 Bem-vindo ao teste prático para os candidatos ao cargo de frontend na COMPASSO.
 
 
-
 ## OBJETIVO
 
 Nosso objetivo com este passo do processo de recrutamento é conhecer melhor as suas habilidades técnicas.
@@ -13,10 +12,13 @@ Com isso, selecionaremos quais desafios passaremos para você e quais precisarem
 
 ## REQUISITOS DA ENTREGA
 
+Para utilizar os Endpoints abaixo, você precisará estar autenticado, para isso você irá utilizar a autenticação do GITHUB:
+- Guia Autenticação: https://docs.github.com/pt/developers/apps/building-oauth-apps
+
 Gostaríamos nos entregasse uma aplicação utilizando a api do GITHUB https://developer.github.com/v3/ consumindo os seguintes endpoints:
-- Endpoint user: https://api.github.com/users/USER_GITHUB
-- Endpoint repos: https://api.github.com/users/USER_GITHUB/repos
-- Endpoint starred: https://api.github.com/users/USER_GITHUB/starred{/owner}{/repo}
+- Endpoint user: https://api.github.com/users/NOME_USUARIO
+- Endpoint repos: https://api.github.com/users/NOME_USUARIO/repos
+- Endpoint starred: https://api.github.com/users/NOME_USUARIO/starred{/owner}{/repo}
 
 A aplicação deverá constituir três componentes principais: 
 - O campo de busca.
