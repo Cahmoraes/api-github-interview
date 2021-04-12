@@ -1,7 +1,8 @@
 # ROTEIRO TESTE FRONTEND COMPASSO
 
-Bem-vindo ao teste prático para os candidatos ao cargo de frontend na COMPASSO.
+## NÃO FAÇA FORK DESSE REPOSITÓRIO
 
+Bem-vindo ao teste prático para os candidatos ao cargo de frontend na COMPASSO.
 
 ## OBJETIVO
 
