@@ -30,7 +30,7 @@ Ao clicar nos botões de repos e starred, deverá mostrar uma lista simples de c
 apresentado anteriormente.
 
 Dado um determinado usuário, deverá ser possível navegar diretamente até a página de
-detalhe do usuário sem que seja necessário efetuar uma nova busca. Ex: http://localhost:3000/USER_GITHUB
+detalhe do usuário sem que seja necessário efetuar uma nova busca. Ex: http://localhost:3000/NOME_USUARIO
 
 - Gostariamos de pesquisar por usuario.
 - Gostariamos de ao clicar no botão de repos, listar repositorios do usuario pesquisado.
