@@ -36,19 +36,19 @@ detalhe do usuário sem que seja necessário efetuar uma nova busca. Ex: http://
 - Gostariamos de ao clicar no botão de repos, listar repositorios do usuario pesquisado.
 - Gostariamos de ao clicar no botão de starred, listar os repositorios mais visitados por aquele usuario.
 
-Você poderá usar o framework css Bootstrap ou Materialize para construção dos componentes UI (Se preferir, os componentes poderão ser criados do zero, utilizando as boas práticas).
+Você poderá usar o framework css Bootstrap para construção dos componentes UI (Se preferir, os componentes poderão ser criados do zero, utilizando as boas práticas).
 
-Você poderá usar os frameworks js para desenvolvimento da sua aplicação ou utilizar o Vanilajs e jQuery.
+Você deverá usar o framework React para desenvolvimento da sua aplicação.
 
-Você poderá utilizar Jasmine, Mocha ou RhinoUnit para testar os request feitos.
+Você poderá utilizar Jest para testar os request feitos.
 
 
 
 ## STACK ESPERADA PARA O TESTE
 
 - HTML 5 (Desejavel o uso de SEO, Semãntica, Usabilidade).
-- JAVASCRIPT (Desejavel o uso de Vanilla, jQuery, Knockoutjs, Angular V2, Vuejs, Reactjs, Performance).
-- CSS 3 (Desejavel o uso de SASS, LESS, Stylus, Bootstrap, Materialize, Escalabilidade, Responsivo, BEM CSS).
+- JAVASCRIPT (Reactjs, Performance).
+- CSS 3 (Desejavel o uso de SASS, LESS, Bootstrap, Escalabilidade, Responsivo, BEM CSS).
 
 
 
@@ -65,13 +65,13 @@ A avaliação será feita da seguinte forma:
 - Vamos analisar e compilar o seu código;
 - Rodar sua aplicação e executar testes para validar o atendimento funcional dos itens acima;
 - Verificar se o seu código é limpo (Clean Code), fácil de entender e de dar manutenção;
-- Durante entrevista, simularemos uma revisão do seu código, percorremos o código junto com você para discutirmos sobre suas decisões de implementação, os pontos positivos e negativos;
+- Durante entrevista, poderemos simular uma revisão do seu código, percorremos o código junto com você para discutirmos sobre suas decisões de implementação, os pontos positivos e negativos;
 - O saldo entre o que for positivo e o que for negativo vai determinar a recomendação do ponto de vista técnico ou não de sua contratação. (Se faltar pouco para atingir uma recomendação positiva, daremos um prazo para você corrigir e retornar);
 
 Requisitos Obrigatórios:
 
 - Verificar as boas práticas voltadas ao CSS 3 e a Metodologia BEM CSS;
-- Verificar as boas práticas voltadas ao JAVASCRIPT ou Framework escolhido;
+- Verificar as boas práticas voltadas ao React;
 - Verificar as boas práticas voltadas ao HTML 5;
 
 
