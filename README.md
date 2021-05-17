@@ -47,7 +47,7 @@ Você poderá utilizar Jest para testar os request feitos.
 ## STACK ESPERADA PARA O TESTE
 
 - HTML 5 (Desejavel o uso de SEO, Semãntica, Usabilidade).
-- JAVASCRIPT (Reactjs, Performance).
+- JAVASCRIPT (React.js, Performance).
 - CSS 3 (Desejavel o uso de SASS, LESS, Bootstrap, Escalabilidade, Responsivo, BEM CSS).
 
 
