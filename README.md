@@ -19,7 +19,7 @@ Para utilizar os Endpoints abaixo, você precisará estar autenticado, para isso
 Gostaríamos nos entregasse uma aplicação utilizando a api do GITHUB https://developer.github.com/v3/ consumindo os seguintes endpoints:
 - Endpoint user: https://api.github.com/users/NOME_USUARIO
 - Endpoint repos: https://api.github.com/users/NOME_USUARIO/repos
-- Endpoint starred: https://api.github.com/users/NOME_USUARIO/starred{/owner}{/repo}
+- Endpoint starred: https://api.github.com/users/NOME_USUARIO/starred
 
 A aplicação deverá constituir três componentes principais: 
 - O campo de busca.
